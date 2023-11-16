@@ -2,7 +2,7 @@
  Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu 
 Jestem miłym młodym komunikatywnym chłopakiem 
 
-Skills: Html 5 , Css 3 , JavaScript , SEO ,  RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API ,  Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql 
+Umijętnośći : Html 5 , Css 3 , JavaScript , SEO ,  RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API ,  Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql 
 
 
 
