@@ -1,7 +1,7 @@
 
 
 
-<h4 align="left">Cześć jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu Jestem miłym młodym komunikatywnym chłopakiem. <br><br>Umijętnośći: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql</h4>
+<h5 align="left">Cześć jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu Jestem miłym młodym komunikatywnym chłopakiem. <br><br>Umijętnośći: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql</h5>
 
 ###
 
