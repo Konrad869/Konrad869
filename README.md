@@ -1,7 +1,7 @@
 Cześć, nazywam się Cześć, jestem Konrad. Jestem po kursie Frond end Developer i małe Kursie Java szukam swojej pierwszej pracy lub stażu. Jestem miłym komunikatywnym chłopakiem, który ciągle się uczę i rozwijam..![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-.![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 
  <br><br>Umijętnośći: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql</h4>
 
