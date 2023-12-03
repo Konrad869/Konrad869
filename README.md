@@ -67,3 +67,11 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 
 
+<a href="https://www.github.com/Konrad869" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Konrad869?logo =github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
+### Umiejętności
+
+<p array="left">
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular" /></a>
+</p>
+
+
