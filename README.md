@@ -59,38 +59,24 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 </div>
 
 
-
-###
-
-
-
-
-
-Społeczności
+### Społeczności
 
 <play="left"> <a href="https://www.github.com/Konrad869" target="_blank" rel="noreferrer"> <picture> <source media="(prefers -color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers -schemat kolorów: jasny)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" szerokość="32" wysokość="32" /> </picture> </a> </p>
 ### Odznaki
 
 <b>Moje statystyki GitHuba</b>
 
-<a href="http://www.github.com/Konrad869"><img src="https://github-readme-stats.vercel.app/api?username=Konrad869&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Statystyki Konrada869 w GitHub" /></a>
+<a href="http://www.github.com/Konrad869"><img src="https://github-readme-stats.vercel.app/api?username=Konrad869&show_icons=true&hide=&count_private=true&title_color=f97316&text_color =ef4444&icon_color=22c55e&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Statystyki Konrada869 w GitHub" /></a>
 
-<a href="http://www.github.com/Konrad869"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Konrad869&stroke=ffffff&background=1c1917&ring=0891b2&fire= 0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Konrad869"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Konrad869&stroke=ef4444&background=7c2d12&ring=f97316&fire= f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/Konrad869"><img src="https://github-readme-activity-graph.cycle.app/graph?username=Konrad869&bg_color=1c1917&color=ffffff&line=0891b2&point =ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Wykres zatwierdzania GitHub" /></a>
+<a href="http://www.github.com/Konrad869"><img src="https://github-readme-activity-graph.cycle.app/graph?username=Konrad869&bg_color=7c2d12&color=ef4444&line=22c55e&point =ef4444&area_color=7c2d12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Wykres zatwierdzeń GitHub" /></a>
 
-<a href="https://github.com/Konrad869" Align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konrad869&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Języki" alt="Najpopularniejsze języki" /></a>
-
-
-
+<a href="https://github.com/Konrad869" Align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konrad869&langs_count =10&title_color=f97316&text_color=ef4444&icon_color=22c55e&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Języki" alt="Najpopularniejsze języki" /></a>
 
 <b>Najpopularniejsze repozytoria</b>
 
 <div szerokość="100%"lay="center"> </div><br /><br /><br /><br /><br /><br /><br />
-
-
-
-
 
 
 
