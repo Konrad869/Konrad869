@@ -3,6 +3,10 @@ Cześć jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java 
 
 
 
+
+
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
                                        
 
 
