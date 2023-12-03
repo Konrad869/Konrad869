@@ -1,11 +1,10 @@
-Cześć jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu. Jestem miłym komunikatywnym chłopakiem, który ciągle się uczy i rozwija.
+Cześć jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu. Jestem miłym komunikatywnym chłopakiem, który ciągle się uczy i rozwija.![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 
 
 
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
                                        
 
