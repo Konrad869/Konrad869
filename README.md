@@ -59,13 +59,18 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 </div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Konrad869)  
+<a href="https://www.github.com/Konrad869" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Konrad869?logo =github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konrad869)](https://github.com/anuraghazra/github-readme-stats)
+### Społeczności
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Konrad869)  
+<play="left"> <a href="https://www.github.com/Konrad869" target="_blank" rel="noreferrer"> <picture> <source media="(prefers -color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers -schemat kolorów: jasny)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" szerokość="32" wysokość="32" /> </picture> </a> </p>
+### Odznaki
 
+<b>Moje statystyki GitHuba</b>
 
+<a href="http://www.github.com/Konrad869"><img src="https://github-readme-stats.vercel.app/api?username=Konrad869&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Statystyki Konrada869 w GitHub" /></a>
 
+<a href="http://www.github.com/Konrad869"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Konrad869&stroke=ffffff&background=1c1917&ring=0891b2&fire= 0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/Konrad869" Align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konrad869&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Języki" alt="Najpopularniejsze języki" /></a>
 
