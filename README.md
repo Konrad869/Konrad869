@@ -49,9 +49,7 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <p array="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular logo"/>
-</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -69,10 +67,5 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 
 
-### Umiejętności
-
-<p array="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular logo"/>
-</p>
 
 
