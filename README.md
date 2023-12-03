@@ -49,7 +49,9 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <p array="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular logo"/>
+</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -67,11 +69,10 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 
 
-<a href="https://www.github.com/Konrad869" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Konrad869?logo =github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
 ### Umiejętności
 
 <p array="left">
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/angularjs-colored.svg" szerokość="36" height="36" alt="Angular logo"/>
 </p>
 
 
