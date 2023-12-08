@@ -58,7 +58,7 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Konrad869&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Konrad869&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Konrad869&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
