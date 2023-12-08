@@ -33,9 +33,7 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ###
 
 <div align="left">
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -57,6 +55,9 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Konrad869&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
