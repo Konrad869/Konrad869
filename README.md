@@ -66,6 +66,9 @@ Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Konrad869/Konrad869/output/github-contribution-grid-snake.svg" />
 
 
