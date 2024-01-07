@@ -15,7 +15,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 
 
- <br><br>Umijętnośći: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql</h4>
+ <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , Podstawy Node.js , Java , Sql</h4>
 
 ###
 
