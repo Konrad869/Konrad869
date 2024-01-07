@@ -27,7 +27,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 ###
 
-<h2 align="left">Moje umiejętnośći</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
