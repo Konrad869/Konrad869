@@ -1,6 +1,5 @@
 
-Cześć ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) jestem Konrad Jestem po kursie Frond end Developer i małym Kursie Java szukam swojej pierwszej pracy lub stażu. Jestem miłym komunikatywnym chłopakiem, który ciągle się uczy i rozwija.
-
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Konrad. I have completed the Frond end Developer course and a small Java course. I am looking for my first job or internship. I am a nice, communicative guy who is constantly learning and developing.
 
 
 
