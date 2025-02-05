@@ -1,13 +1,19 @@
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Im'Konrad!;" />
+</h1>
+
+
+
+
+
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Konrad. I have completed the Frond end Developer course and a small Java course. I am looking for my first job or internship. I am a nice, communicative guy who is constantly learning and developing.
 
 
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Im'Konrad!;" />
-</h1>
 
 
 
