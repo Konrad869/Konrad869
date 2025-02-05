@@ -65,6 +65,11 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 </div>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/konrad-studziński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/konrad-studziński" height="30" width="40" /></a>
+</p>
+
 
 
 # 📊 GitHub Stats:
