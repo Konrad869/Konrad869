@@ -12,7 +12,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 front-end developer with a strong interest in modern web technologies. I work with
 HTML, CSS, JavaScript, and Angular. I value
 teamwork, a fast learning curve, and the opportunity to solve real-world problems
-using code. I also run my own organization on Github where I create my own open-source projects - https:/github.com/KonradOpenSource
+using code. I also run my own organization on Github where I create my own open-source projects.
 
 
 
