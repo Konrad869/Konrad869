@@ -10,7 +10,7 @@
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a 25-year-old motivated
 Fullstac developer with a strong interest in modern web technologies. I work with
-HTML, CSS, JavaScript, and Angular Java ,Spring Boot Docker , Postgressql , Maven . I value
+HTML, CSS, JavaScript, and Angular, Java ,Spring Boot Docker , Postgressql , Maven . I value
 teamwork, a fast learning curve, and the opportunity to solve real-world problems
 using code. I also run my own organization on Github where I create my own open-source projects.
 
