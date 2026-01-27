@@ -25,7 +25,7 @@ using code. I also run my own organization on Github where I create my own open-
 
 
 
- <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , basics Node.js , Java , Spring Boot , Docker , Postgresql , Maven , Ngix , Sql , Testing(Jasmine and Karma) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
+ <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , basics Node.js , Java , Spring Boot , Docker , Postgresql , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
 
 ###
 
