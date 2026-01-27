@@ -9,8 +9,8 @@
 
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a 25-year-old motivated
-front-end developer with a strong interest in modern web technologies. I work with
-HTML, CSS, JavaScript, and Angular. I value
+Fullstac developer with a strong interest in modern web technologies. I work with
+HTML, CSS, JavaScript, and Angular Java ,Spring Boot Docker , Postgressql , Maven . I value
 teamwork, a fast learning curve, and the opportunity to solve real-world problems
 using code. I also run my own organization on Github where I create my own open-source projects.
 
@@ -25,7 +25,7 @@ using code. I also run my own organization on Github where I create my own open-
 
 
 
- <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material , SPA , basics Node.js , Java , Spring , Docker , Postgresql , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
+ <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material  , basics Node.js , Java , Spring Boot , Docker , Postgresql , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
 
 ###
 
