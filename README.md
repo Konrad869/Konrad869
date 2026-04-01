@@ -26,7 +26,7 @@ using code. I also run my own organization on Github where I create my own open-
 
 
  <br><br>Skills: Html 5 , Css 3 , JavaScript , SEO , RWD , BEM , ITCSS , Sass/Scss , Wordpress , Git , TypeScript , Fetch Api , Rest API , Angular , RXJS , Angular Material  , basics Node.js , Java , Spring Boot , Docker , 
-PostgreSQL , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) </h4>
+PostgreSQL , Maven , Ngix , Sql , Testing(Jasmine and Karma and Junit) ,  Microsoft Azure , AI tools(Github Compilot , Windsurf) , CI/CD(Github Actions),Swagger. </h4>
 
 ###
 
